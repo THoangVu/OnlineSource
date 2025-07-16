@@ -118,10 +118,10 @@ function Home() {
       {/* Hero Section */}
       <div className="text-center mb-12">
         <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-4">
-  Học tập cùng <span className="text-primary-600">nền tảng AI thông minh</span>
+  Học tập cùng <span className="text-primary-600">nền tảng EduMart</span>
 </h1>
 <p className="text-xl text-gray-600 mb-8 max-w-3xl mx-auto">
-  Khám phá các khóa học được cá nhân hóa, nhận đề xuất thông minh và tăng tốc hành trình học tập của bạn với nền tảng được hỗ trợ bởi AI.
+  Khám phá các khóa học được cá nhân hóa, nhận đề xuất thông minh và tăng tốc hành trình học tập của bạn.
 </p>
         
         {/* AI Suggestions Button */}
