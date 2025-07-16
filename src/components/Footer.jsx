@@ -16,7 +16,7 @@ function Footer() {
               <span className="text-xl font-bold">EduMart</span>
             </div>
             <p className="text-gray-400 mb-4">
-              AI-powered education platform connecting learners with the best courses and instructors worldwide.
+              Hãy học tập cùng với chúng tôi.
             </p>
             <div className="flex space-x-4">
               <Facebook className="h-5 w-5 text-gray-400 hover:text-white cursor-pointer" />
@@ -56,15 +56,15 @@ function Footer() {
             <div className="space-y-3">
               <div className="flex items-center space-x-2">
                 <Mail className="h-4 w-4 text-gray-400" />
-                <span className="text-gray-400">support@edumart.com</span>
+                <span className="text-gray-400">tranhoangvu2205@gmail.com</span>
               </div>
               <div className="flex items-center space-x-2">
                 <Phone className="h-4 w-4 text-gray-400" />
-                <span className="text-gray-400">+1 (555) 123-4567</span>
+                <span className="text-gray-400">0394442841</span>
               </div>
               <div className="flex items-center space-x-2">
                 <MapPin className="h-4 w-4 text-gray-400" />
-                <span className="text-gray-400">123 Education St, Learning City</span>
+                <span className="text-gray-400">Ho Chi Minh City</span>
               </div>
             </div>
           </div>
@@ -72,7 +72,7 @@ function Footer() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center">
           <p className="text-gray-400">
-            © 2024 EduMart. All rights reserved. | Privacy Policy | Terms of Service
+            ©EduMart. TranHoangVu
           </p>
         </div>
       </div>
